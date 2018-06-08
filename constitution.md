@@ -28,11 +28,11 @@ The Business and activities of the Crew shall be conducted at places decided upo
 Full Membership shall be open to all young persons according to the provisions of the CPRM of the Scout Association of New Zealand.
 Such members may be invited to be invested as Rovers when the Crew is satisfied that:
 
-- **4.1.1**	The person has given full and careful consideration to the implications of Scout Law and Promise upon their outlook, activities, and responsibilities, and is making an earnest endeavour to carry out the spirit of the Scout Law.
+**4.1.1** The person has given full and careful consideration to the implications of Scout Law and Promise upon their outlook, activities, and responsibilities, and is making an earnest endeavour to carry out the spirit of the Scout Law.
 
-- **4.1.2**	The person has participated actively in Crew activities for a period of time sufficiently acceptable to the Executive Committee. 
+**4.1.2** The person has participated actively in Crew activities for a period of time sufficiently acceptable to the Executive Committee. 
 
-- **4.1.3** The person has satisfied the following requirements:
+**4.1.3** The person has satisfied the following requirements:
     - **4.1.3.1** The person has participated in an outdoor activity or night	away with the Crew
     - **4.1.3.2** The person has joined the Crew in a service activity
     - **4.1.3.3** The person has completed a Rover Explained with the Crew or	the Regional Rover Leader
@@ -41,30 +41,36 @@ Such members may be invited to be invested as Rovers when the Crew is satisfied 
     - **4.1.3.6** The person shows understanding of the Crew Constitution and	agrees to abide by it
     - **4.1.3.7** The person has organised at least one Crew activity
 
-- **4.1.4**	The Crew member will accept the obligation of at least 50 hours service during the year.  Service as an adult leader may be included in this total in accordance with CPRM.
+**4.1.4** The Crew member will accept the obligation of at least 50 hours service during the year.  Service as an adult leader may be included in this total in accordance with CPRM.
 
 
 ### 4.2	Associate Membership:
 
 Associate Membership shall be open to persons aged twenty six or over, according to the provisions of the CPRM, provided that at the time of admission the number of associate members shall not exceed 30% of the total number of members of the Crew aside from exceptional circumstances at the discretion of the Executive Committee and Regional Rover Leader.  An existing member becomes an associate member automatically on their 26th birthday.
 
-- **4.2.1** Prospective Associate Members shall be nominated by two full members of the Crew and their name submitted for election as associate members at the AGM or where specifically declared by the Executive Committee at a Special General Meeting (SGM) of the Crew.
-- **4.2.2**	Their membership shall take effect from the time of their 26th birthday or election as an Associate Member, and, unless terminated, remain operative until the next Annual General Meeting when their membership may be reaffirmed for the ensuing year.
-- **4.2.3**	Associate Members shall be entitled to participate in all normal discussions and activities of the Crew with the exception of meeting specifically called for Full Members only.
-- **4.2.4**	Associate Members are to reaffirm their continuing interest in membership before, or at the Annual General Meeting.
-- **4.2.5**	Associate Membership shall be otherwise in accordance with clauses 4.1. 
-- **4.2.6**	If the majority of the Crew cannot elect an office bearer who forms part of the Executive Committee from the eligible full membership, an associate member, with majority agreement of the crew, may become eligible for election.
+**4.2.1** Prospective Associate Members shall be nominated by two full members of the Crew and their name submitted for election as associate members at the AGM or where specifically declared by the Executive Committee at a Special General Meeting (SGM) of the Crew.
+
+**4.2.2** Their membership shall take effect from the time of their 26th birthday or election as an Associate Member, and, unless terminated, remain operative until the next Annual General Meeting when their membership may be reaffirmed for the ensuing year.
+
+**4.2.3** Associate Members shall be entitled to participate in all normal discussions and activities of the Crew with the exception of meeting specifically called for Full Members only.
+
+**4.2.4** Associate Members are to reaffirm their continuing interest in membership before, or at the Annual General Meeting.
+
+**4.2.5** Associate Membership shall be otherwise in accordance with clauses 4.1. 
+
+**4.2.6** If the majority of the Crew cannot elect an office bearer who forms part of the Executive Committee from the eligible full membership, an associate member, with majority agreement of the crew, may become eligible for election.
 
 ### 4.3. Affiliate Memberships:
 
 Affiliate Memberships shall be open to any person, or Crew Member, who by reason of distance of travel, or other reason acceptable to the Crew, is unable to accept or continue the responsibility of Full, or Associate Membership. In the case of people who are not full members or ex Crew members, Affiliate Membership shall only be granted to the following:
 
-- **4.3.1.1** Full Members of Rover Crews from outside Wellington
-- **4.3.1.2** Any other person who is a current adult member of Scouts or Guides.
-- **4.3.1.3** Any other person making an outstanding contribution to the activities or aims of the Crew, as defined by the executive committee. 
+**4.3.1.1** Full Members of Rover Crews from outside Wellington
 
-- **4.3.2** Affiliate Membership shall otherwise be in accordance with clause 4.1, and the following:
+**4.3.1.2** Any other person who is a current adult member of Scouts or Guides.
 
+**4.3.1.3** Any other person making an outstanding contribution to the activities or aims of the Crew, as defined by the executive committee. 
+
+**4.3.2** Affiliate Membership shall otherwise be in accordance with clause 4.1, and the following:
     - **4.3.2.1** Affiliate Members will be expected to attend meetings and activities from time to time
     - **4.3.2.2** Voting for Affiliate Members shall be in the same way as for associate members
     - **4.3.2.3** The number of Affiliate Members at the time of admission shall not exceed 30% of the total number of members of the Crew.
