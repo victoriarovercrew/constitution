@@ -33,13 +33,13 @@ Such members may be invited to be invested as Rovers when the Crew is satisfied 
 **4.1.2** The person has participated actively in Crew activities for a period of time sufficiently acceptable to the Executive Committee. 
 
 **4.1.3** The person has satisfied the following requirements:
-    - **4.1.3.1** The person has participated in an outdoor activity or night	away with the Crew
-    - **4.1.3.2** The person has joined the Crew in a service activity
-    - **4.1.3.3** The person has completed a Rover Explained with the Crew or	the Regional Rover Leader
-    - **4.1.3.4** The person has attended at least one formal Crew meeting
-    - **4.1.3.5** The person has attended a Regional Rover event or meeting
-    - **4.1.3.6** The person shows understanding of the Crew Constitution and	agrees to abide by it
-    - **4.1.3.7** The person has organised at least one Crew activity
+- **4.1.3.1** The person has participated in an outdoor activity or night away with the Crew
+- **4.1.3.2** The person has joined the Crew in a service activity
+- **4.1.3.3** The person has completed a Rover Explained with the Crew or the Regional Rover Leader
+- **4.1.3.4** The person has attended at least one formal Crew meeting
+- **4.1.3.5** The person has attended a Regional Rover event or meeting
+- **4.1.3.6** The person shows understanding of the Crew Constitution and agrees to abide by it
+- **4.1.3.7** The person has organised at least one Crew activity
 
 **4.1.4** The Crew member will accept the obligation of at least 50 hours service during the year.  Service as an adult leader may be included in this total in accordance with CPRM.
 
@@ -71,9 +71,9 @@ Affiliate Memberships shall be open to any person, or Crew Member, who by reason
 **4.3.1.3** Any other person making an outstanding contribution to the activities or aims of the Crew, as defined by the executive committee. 
 
 **4.3.2** Affiliate Membership shall otherwise be in accordance with clause 4.1, and the following:
-    - **4.3.2.1** Affiliate Members will be expected to attend meetings and activities from time to time
-    - **4.3.2.2** Voting for Affiliate Members shall be in the same way as for associate members
-    - **4.3.2.3** The number of Affiliate Members at the time of admission shall not exceed 30% of the total number of members of the Crew.
+- **4.3.2.1** Affiliate Members will be expected to attend meetings and activities from time to time
+- **4.3.2.2** Voting for Affiliate Members shall be in the same way as for associate members
+- **4.3.2.3** The number of Affiliate Members at the time of admission shall not exceed 30% of the total number of members of the Crew.
 
 ### 4.4	Other Membership Provisions:
 
