@@ -101,8 +101,10 @@ Termination of membership of any Member (Full, Associate, or Affiliate) shall be
 - **6.1.2**	Secretary
 - **6.1.3**	Treasurer
 - **6.1.4**	Quartermaster
+
 **6.2** The Crew may also elect the following office bearers:
 - **6.2.1**	Up to two Assistant Rover Crew Leaders
+
 **6.3** All office bearers must be elected at an annual, or special general meeting.
 
 **6.4** The duties of the office bearers are as follows:
