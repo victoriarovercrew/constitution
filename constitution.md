@@ -76,7 +76,8 @@ Affiliate Memberships shall be open to any person, or Crew Member, who by reason
 **4.4.2** Ex Members of other Rover crews shall be eligible for membership providing:
 - **4.4.2.1** That they have resigned as Full or Associate Members of other Rover crews.
 - **4.4.2.2** That they have participated in Crew activities and meetings for a period of time decided by the executive committee and has completed the requirements of either 4.1  or 4.2, as applicable and as required by the executive committee.
-- **4.4.3** The total number of Associate and Affiliate Members shall not at any time exceed 50% of the total number of members of the Crew.
+
+**4.4.3** The total number of Associate and Affiliate Members shall not at any time exceed 50% of the total number of members of the Crew.
 
 ### 4.5	Termination of Membership:
 
