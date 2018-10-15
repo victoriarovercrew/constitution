@@ -128,7 +128,9 @@ Termination of membership of any Member (Full, Associate, or Affiliate) shall be
 - **6.4.3**	Treasurer:		
     - **6.4.3.1** keep a complete record of all income and expenditure
     - **6.4.3.2** produce an account of these verbally at Crew meetings 
-    - **6.4.3.4** produce a written set of accounts for the AGM to be audited.
+    - **6.4.3.4** produce a written set of accounts for the AGM.
+    - **6.4.3.5** produce or obtain documents and submit these to the national office for financial consolidation.
+    - **6.4.3.6** administer the crew account(s).
 
 - **6.4.4**	Quartermaster:
     - **6.4.4.1** monitor the status of, and recommend any actions to maintain the Crew’s equipment and premises.
