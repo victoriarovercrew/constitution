@@ -6,7 +6,7 @@ The name of the Rover Crew shall be “Victoria Rover Scout Crew”
 ## 2.0 Objectives:
 The objectives of the Crew shall be:
 
-- To act as a uniformed service to the Wellington Zone for the purpose of providing assistance to the Zone Leader and adult leaders in the operation and encouragement of Scouting in the Zone
+- To act as a uniformed service to the Wellington Zone for the purpose of providing assistance to the Zone Leader and adult leaders in the operation and encouragement of Scouting in the Zone.
 
 - To earn and maintain the goodwill of the community by rendering service as citizens and as an organised section of the Scout Association of New Zealand.
 
@@ -33,13 +33,13 @@ Such members may be invited to be invested as Rovers when the Crew is satisfied 
 **4.1.2** The person has participated actively in Crew activities for a period of time sufficiently acceptable to the Executive Committee. 
 
 **4.1.3** The person has satisfied the following requirements:
-- **4.1.3.1** The person has participated in an outdoor activity or night away with the Crew
-- **4.1.3.2** The person has joined the Crew in a service activity
-- **4.1.3.3** The person has completed a Rover Explained with the Crew or the Regional Rover Leader
-- **4.1.3.4** The person has attended at least one formal Crew meeting
-- **4.1.3.5** The person has attended a Regional Rover event or meeting
-- **4.1.3.6** The person shows understanding of the Crew Constitution and agrees to abide by it
-- **4.1.3.7** The person has organised at least one Crew activity
+- **4.1.3.1** The person has participated in an outdoor activity or night away with the Crew.
+- **4.1.3.2** The person has joined the Crew in a service activity.
+- **4.1.3.3** The person has completed a Rover Explained with the Crew or the Regional Rover Leader.
+- **4.1.3.4** The person has attended at least one formal Crew meeting.
+- **4.1.3.5** The person has attended a Regional Rover event or meeting.
+- **4.1.3.6** The person shows understanding of the Crew Constitution and agrees to abide by it.
+- **4.1.3.7** The person has organised at least one Crew activity.
 
 **4.1.4** The Crew member will accept the obligation of at least 50 hours service during the year.  Service as an adult leader may be included in this total in accordance with CPRM.
 
@@ -64,15 +64,15 @@ Associate Membership shall be open to persons aged twenty six or over, according
 
 Affiliate Memberships shall be open to any person, or Crew Member, who by reason of distance of travel, or other reason acceptable to the Crew, is unable to accept or continue the responsibility of Full, or Associate Membership. In the case of people who are not full members or ex Crew members, Affiliate Membership shall only be granted to the following:
 
-**4.3.1.1** Full Members of Rover Crews from outside Wellington
+**4.3.1.1** Full Members of Rover Crews from outside Wellington.
 
 **4.3.1.2** Any other person who is a current adult member of Scouts or Guides.
 
 **4.3.1.3** Any other person making an outstanding contribution to the activities or aims of the Crew, as defined by the executive committee. 
 
 **4.3.2** Affiliate Membership shall otherwise be in accordance with clause 4.1, and the following:
-- **4.3.2.1** Affiliate Members will be expected to attend meetings and activities from time to time
-- **4.3.2.2** Voting for Affiliate Members shall be in the same way as for associate members
+- **4.3.2.1** Affiliate Members will be expected to attend meetings and activities from time to time.
+- **4.3.2.2** Voting for Affiliate Members shall be in the same way as for associate members.
 - **4.3.2.3** The number of Affiliate Members at the time of admission shall not exceed 30% of the total number of members of the Crew.
 
 ### 4.4	Other Membership Provisions:
@@ -116,40 +116,40 @@ Termination of membership of any Member (Full, Associate, or Affiliate) shall be
 
 **6.4** The duties of the office bearers are as follows:
 - **6.4.1**	Rover Crew Leader and Assistants:
-    - **6.4.1.1** perform their functions in accordance with rule 131 of the CPRM
+    - **6.4.1.1** perform their functions in accordance with rule 131 of the CPRM.
     - **6.4.1.2** act as chairperson of the Executive Committee, and deputy chairpersons respectively.
 
 - **6.4.2**	Secretary: 
-    - **6.4.2.1** record and read out the minutes of Crew meetings 
-    - **6.4.2.2** send outgoing correspondence
-    - **6.4.2.3** record inwards correspondence
+    - **6.4.2.1** record and read out the minutes of Crew meetings.
+    - **6.4.2.2** send outgoing correspondence.
+    - **6.4.2.3** record inwards correspondence.
     - **6.4.2.4** ensure that unresolved matters are brought to the attention of the Executive Committee.
 
 - **6.4.3**	Treasurer:		
-    - **6.4.3.1** keep a complete record of all income and expenditure
-    - **6.4.3.2** produce an account of these verbally at Crew meetings 
+    - **6.4.3.1** keep a complete record of all income and expenditure.
+    - **6.4.3.2** produce an account of these verbally at Crew meetings.
     - **6.4.3.4** produce a written set of accounts for the AGM to be audited.
 
 - **6.4.4**	Quartermaster:
     - **6.4.4.1** monitor the status of, and recommend any actions to maintain the Crew’s equipment and premises.
-    - **6.4.4.2** regularly organise to keep the premises clean and tidy 
+    - **6.4.4.2** regularly organise to keep the premises clean and tidy.
 
 ## 7.0 Executive Committee
 
 **7.1.** The Rover Crew Leader, Secretary, Treasurer and any Assistant Rover Crew Leaders comprise the Crew’s Executive Committee. From time to time, other members may be requested to join the Executive Committee at its discretion.
 
-**7.2.** The Executive Committee is responsible for: 
+**7.2.** The Executive Committee is responsible for:
 
-- **7.2.1** the general administration of affairs of the Crew;
-- **7.2.2** overseeing the planning and organising of a programme of activities;
-- **7.2.3**	initiating other activities as appropriate;
-- **7.2.4**	appointing representation as recommended by the Crew to Zone, Regional, or National functions;
-- **7.2.5**	conducting the affairs of the Crew in accordance with the Crew’s goals indicated at the Annual General Meeting;
+- **7.2.1** the general administration of affairs of the Crew.
+- **7.2.2** overseeing the planning and organising of a programme of activities.
+- **7.2.3**	initiating other activities as appropriate.
+- **7.2.4**	appointing representation as recommended by the Crew to Zone, Regional, or National functions.
+- **7.2.5**	conducting the affairs of the Crew in accordance with the Crew’s goals indicated at the Annual General Meeting.
 - **7.2.6**	mediating and resolving any problems that may arise in the Crew.
 
 ## 8.0 Meetings:
 
-**8.1**	The Annual General Meeting of the Crew shall be held not later than the last day of November each year.  The business of the Annual General Meeting shall be:
+**8.1**	The Annual General Meeting of the Crew shall be held not later than the last day of November each year. The business of the Annual General Meeting shall be:
 
 - **8.1.1**	The report of the Executive Committee for the previous year.
 
@@ -157,7 +157,7 @@ Termination of membership of any Member (Full, Associate, or Affiliate) shall be
 
 - **8.1.3**	The election of office bearers for the ensuing year.
 
-- **8.1.4**	Alteration to the constitution of the Crew (if any), as per section 11
+- **8.1.4**	Alteration to the constitution of the Crew (if any), as per section 11.
 
 - **8.1.5**	The election or re-affirmation of Associate and affiliate members for the ensuing year.
 
@@ -165,7 +165,7 @@ Termination of membership of any Member (Full, Associate, or Affiliate) shall be
 
 - **8.1.7**	Other General business.
 
-**8.2**	The crew will endeavour to run an average of one General Meeting per calendar month
+**8.2**	The crew will endeavour to run an average of one General Meeting per calendar month.
 
 **8.3**	Service, social, self development and other activity meetings shall be held as decided at general meetings of the Crew.
 
@@ -186,7 +186,7 @@ The Annual General Meeting of the Crew shall decide on the amount of the annual 
 Funds may be raised by any activities or functions, for specific or general purposes, as may be agreed by the Executive Committee. All fundraising shall comply with the provisions of the CPRM.
 
 ### 9.3	Care of funds: 
-All funds shall be in held in a bank account approved by the Crew and all payments (unless specifically agreed otherwise by the Crew) shall be made by cheque, or electronic bank transfer. The Rover Crew Leader, Assistant Rover Crew Leader, Secretary, and Treasurer shall act as trustees and signatories to the account.  A minimum of two signatures of the trustees shall be required for signing of all Crew cheques/electronic bank transfers.
+All funds shall be in held in a bank account approved by the Crew and all payments (unless specifically agreed otherwise by the Crew) shall be made by cheque, or electronic bank transfer. The Rover Crew Leader, Assistant Rover Crew Leader, Secretary, and Treasurer shall act as trustees and signatories to the account. A minimum of two signatures of the trustees shall be required for signing of all Crew cheques/electronic bank transfers.
 All transactions shall be recorded.
 
 **9.4**	The Accounts of the Crew shall be presented at the Annual General Meeting for auditing, and copies forwarded to the Zone Leader and Regional Rover Leader.
