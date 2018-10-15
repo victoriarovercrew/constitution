@@ -189,7 +189,9 @@ Funds may be raised by any activities or functions, for specific or general purp
 All funds shall be in held in a bank account approved by the Crew and all payments (unless specifically agreed otherwise by the Crew) shall be made by cheque, or electronic bank transfer. The Rover Crew Leader, Assistant Rover Crew Leader, Secretary, and Treasurer shall act as trustees and signatories to the account.  A minimum of two signatures of the trustees shall be required for signing of all Crew cheques/electronic bank transfers.
 All transactions shall be recorded.
 
-**9.4**	The Accounts of the Crew shall be presented at the Annual General Meeting for auditing, and copies forwarded to the Zone Leader and Regional Rover Leader.
+### 9.4	Financial Reporting:
+The Accounts of the Crew shall be presented at the Annual General Meeting.
+Accounts and supporting documentation shall be submitted to national office for financial reporting as requested.
 
 ## 10.0	Voting
 
