@@ -46,7 +46,7 @@ Such members may be invited to be invested as Rovers when the Crew is satisfied 
 
 ### 4.2	Associate Membership:
 
-Associate Membership shall be open to persons aged twenty six or over, according to the provisions of the CPRM, provided that at the time of admission the number of associate members shall not exceed 30% of the total number of members of the Crew aside from exceptional circumstances at the discretion of the Executive Committee and Regional Rover Leader.  An existing member becomes an associate member automatically on their 26th birthday.
+Associate Membership shall be open to persons aged twenty six or over, according to the provisions of the CPRM, provided that at the time of admission the number of associate members shall not exceed 30% of the total number of members.  An existing member becomes an associate member automatically on their 26th birthday.
 
 **4.2.1** Prospective Associate Members shall be nominated by two full members of the Crew and their name submitted for election as associate members at the AGM or where specifically declared by the Executive Committee at a Special General Meeting (SGM) of the Crew.
 
@@ -77,11 +77,9 @@ Affiliate Memberships shall be open to any person, or Crew Member, who by reason
 
 ### 4.4	Other Membership Provisions:
 
-**4.4.1** Ex Members of Victoria Rover Scout Crew re-applying for Full or Associate Membership may have the requirements of clause 4.1 or 4.2 reduced at the discretion of the Executive Committee.
+**4.4.1** Ex Members of this or another Crew applying for Full or Associate Membership may have the requirements of clause 4.1.3 reduced or waived at the discretion of the Executive Committee.
 
-**4.4.2** Ex Members of other Rover crews shall be eligible for membership providing:
-- **4.4.2.1** That they have resigned as Full or Associate Members of other Rover crews.
-- **4.4.2.2** That they have participated in Crew activities and meetings for a period of time decided by the executive committee and has completed the requirements of either 4.1  or 4.2, as applicable and as required by the executive committee.
+**4.4.2** Ex Members of other Rover crews shall be eligible for membership providing that they have resigned as Full or Associate Members of other Rover crews.
 
 **4.4.3** The total number of Associate and Affiliate Members shall not at any time exceed 50% of the total number of members of the Crew.
 
