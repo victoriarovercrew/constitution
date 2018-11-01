@@ -48,17 +48,11 @@ Such members may be invited to be invested as Rovers when the Crew is satisfied 
 
 Associate Membership shall be open to persons aged twenty six or over, according to the provisions of the CPRM, provided that at the time of admission the number of associate members shall not exceed 30% of the total number of members of the Crew aside from exceptional circumstances at the discretion of the Executive Committee and Regional Rover Leader.  An existing member becomes an associate member automatically on their 26th birthday.
 
-**4.2.1** Prospective Associate Members shall be nominated by two full members of the Crew and their name submitted for election as associate members at the AGM or where specifically declared by the Executive Committee at a Special General Meeting (SGM) of the Crew.
+**4.2.1** Associate Members shall be entitled to participate in all normal discussions and activities of the Crew with the exception of meeting specifically called for Full Members only.
 
-**4.2.2** Their membership shall take effect from the time of their 26th birthday or election as an Associate Member, and, unless terminated, remain operative until the next Annual General Meeting when their membership may be reaffirmed for the ensuing year.
+**4.2.2** Associate Membership shall be otherwise in accordance with clauses 4.1. 
 
-**4.2.3** Associate Members shall be entitled to participate in all normal discussions and activities of the Crew with the exception of meeting specifically called for Full Members only.
-
-**4.2.4** Associate Members are to reaffirm their continuing interest in membership before, or at the Annual General Meeting.
-
-**4.2.5** Associate Membership shall be otherwise in accordance with clauses 4.1. 
-
-**4.2.6** If the majority of the Crew cannot elect an office bearer who forms part of the Executive Committee from the eligible full membership, an associate member, with majority agreement of the crew, may become eligible for election.
+**4.2.3** If the majority of the Crew cannot elect an office bearer who forms part of the Executive Committee from the eligible full membership, an associate member, with majority agreement of the crew, may become eligible for election.
 
 ### 4.3. Affiliate Memberships:
 
