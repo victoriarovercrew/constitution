@@ -46,19 +46,13 @@ Such members may be invited to be invested as Rovers when the Crew is satisfied 
 
 ### 4.2	Associate Membership:
 
-Associate Membership shall be open to persons aged twenty six or over, according to the provisions of the CPRM, provided that at the time of admission the number of associate members shall not exceed 30% of the total number of members of the Crew aside from exceptional circumstances at the discretion of the Executive Committee and Regional Rover Leader.  An existing member becomes an associate member automatically on their 26th birthday.
+Associate Membership shall be open to persons aged twenty six or over, according to the provisions of the CPRM, provided that at the time of admission the number of associate members shall not exceed 30% of the total number of members.  An existing member becomes an associate member automatically on their 26th birthday.
 
-**4.2.1** Prospective Associate Members shall be nominated by two full members of the Crew and their name submitted for election as associate members at the AGM or where specifically declared by the Executive Committee at a Special General Meeting (SGM) of the Crew.
+**4.2.1** Associate Members shall be entitled to participate in all normal discussions and activities of the Crew with the exception of meeting specifically called for Full Members only.
 
-**4.2.2** Their membership shall take effect from the time of their 26th birthday or election as an Associate Member, and, unless terminated, remain operative until the next Annual General Meeting when their membership may be reaffirmed for the ensuing year.
+**4.2.2** Associate Membership shall be otherwise in accordance with clauses 4.1. 
 
-**4.2.3** Associate Members shall be entitled to participate in all normal discussions and activities of the Crew with the exception of meeting specifically called for Full Members only.
-
-**4.2.4** Associate Members are to reaffirm their continuing interest in membership before, or at the Annual General Meeting.
-
-**4.2.5** Associate Membership shall be otherwise in accordance with clauses 4.1. 
-
-**4.2.6** If the majority of the Crew cannot elect an office bearer who forms part of the Executive Committee from the eligible full membership, an associate member, with majority agreement of the crew, may become eligible for election.
+**4.2.3** If the majority of the Crew cannot elect an office bearer who forms part of the Executive Committee from the eligible full membership, an associate member, with majority agreement of the crew, may become eligible for election.
 
 ### 4.3. Affiliate Memberships:
 
@@ -77,11 +71,9 @@ Affiliate Memberships shall be open to any person, or Crew Member, who by reason
 
 ### 4.4	Other Membership Provisions:
 
-**4.4.1** Ex Members of Victoria Rover Scout Crew re-applying for Full or Associate Membership may have the requirements of clause 4.1 or 4.2 reduced at the discretion of the Executive Committee.
+**4.4.1** Ex Members of this or another Crew applying for Full or Associate Membership may have the requirements of clause 4.1.3 reduced or waived at the discretion of the Executive Committee.
 
-**4.4.2** Ex Members of other Rover crews shall be eligible for membership providing:
-- **4.4.2.1** That they have resigned as Full or Associate Members of other Rover crews.
-- **4.4.2.2** That they have participated in Crew activities and meetings for a period of time decided by the executive committee and has completed the requirements of either 4.1  or 4.2, as applicable and as required by the executive committee.
+**4.4.2** Ex Members of other Rover crews shall be eligible for membership providing that they have resigned as Full or Associate Members of other Rover crews.
 
 **4.4.3** The total number of Associate and Affiliate Members shall not at any time exceed 50% of the total number of members of the Crew.
 
@@ -125,10 +117,12 @@ Termination of membership of any Member (Full, Associate, or Affiliate) shall be
     - **6.4.2.3** record inwards correspondence.
     - **6.4.2.4** ensure that unresolved matters are brought to the attention of the Executive Committee.
 
-- **6.4.3**	Treasurer:		
+- **6.4.3**	Treasurer:
     - **6.4.3.1** keep a complete record of all income and expenditure.
     - **6.4.3.2** produce an account of these verbally at Crew meetings.
-    - **6.4.3.4** produce a written set of accounts for the AGM to be audited.
+    - **6.4.3.4** produce a written set of accounts for the AGM.
+    - **6.4.3.5** produce or obtain documents and submit these to the national office for financial consolidation.
+    - **6.4.3.6** administer the crew account(s).
 
 - **6.4.4**	Quartermaster:
     - **6.4.4.1** monitor the status of, and recommend any actions to maintain the Crew’s equipment and premises.
@@ -189,7 +183,9 @@ Funds may be raised by any activities or functions, for specific or general purp
 All funds shall be in held in a bank account approved by the Crew and all payments (unless specifically agreed otherwise by the Crew) shall be made by cheque, or electronic bank transfer. The Rover Crew Leader, Assistant Rover Crew Leader, Secretary, and Treasurer shall act as trustees and signatories to the account. A minimum of two signatures of the trustees shall be required for signing of all Crew cheques/electronic bank transfers.
 All transactions shall be recorded.
 
-**9.4**	The Accounts of the Crew shall be presented at the Annual General Meeting for auditing, and copies forwarded to the Zone Leader and Regional Rover Leader.
+### 9.4	Financial Reporting:
+The Accounts of the Crew shall be presented at the Annual General Meeting.
+Accounts and supporting documentation shall be submitted to national office for financial reporting as requested.
 
 ## 10.0	Voting
 
