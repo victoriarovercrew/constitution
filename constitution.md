@@ -198,6 +198,8 @@ At all meetings voting shall be on the voices, or in the case of doubt, on a sho
 
 - **10.2.1** Scrutineers shall be nominated for the purpose by the Crew. Preference for scrutineers shall be given to non-full members, but in the case of two non-full members not being available, the Rover Crew Leader shall elect two scrutineers. 
 
+- **10.2.2** Members may, at their own discretion, nominate another member to cast a proxy vote on their behalf. Members who are acting as a proxy for another member must declare this at the start of the ballot and this shall be minuted.
+
 
 ## 11.0	Alterations to this constitution
 
